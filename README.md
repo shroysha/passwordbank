@@ -1,7 +1,7 @@
 # passwordbank
 
 ## Description
-null
+Password bank made for practice and should never be used
 
 ### Tags
 [Java]
